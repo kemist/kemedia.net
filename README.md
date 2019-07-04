@@ -1,2 +1,5 @@
-# kemedia.net
-Created by Spck.io
+**README**
+# Kemedia.net
+---
+
+Originally "Created by Spck.io"
